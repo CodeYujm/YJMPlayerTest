@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A1DF506DF552102EDF30D5DEA1638A89316A0C07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A1DF506DF552102EDF30D5DEA1638A89316A0C07" : 9223372036854775807,
+    "39CFD23EC8347B48EC20211706BD9D42A1E0808D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6E591972-7FF4-4996-9787-FC93BA43F57E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A1DF506DF552102EDF30D5DEA1638A89316A0C07" : "XLVideoPlayerTest\/",
+    "39CFD23EC8347B48EC20211706BD9D42A1E0808D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XLVideoPlayerTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XLVideoPlayerTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StruggleXL\/SRPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39CFD23EC8347B48EC20211706BD9D42A1E0808D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CodeYujm\/YJMPlayerTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1DF506DF552102EDF30D5DEA1638A89316A0C07"
+    }
+  ]
+}
