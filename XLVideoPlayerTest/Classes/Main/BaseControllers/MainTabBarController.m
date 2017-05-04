@@ -14,9 +14,7 @@
 
 @implementation MainTabBarController
 
-//init hello
-
-//ceshi 
+//yujunming
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
