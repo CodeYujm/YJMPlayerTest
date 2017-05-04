@@ -15,6 +15,8 @@
 @implementation MainTabBarController
 
 //init hello
+
+//ceshi 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
